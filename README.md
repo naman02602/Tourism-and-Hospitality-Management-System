@@ -16,24 +16,3 @@ Data visualizations are conducted through python modules like matplotlib, seabor
 
 ## ER Diagrams
 ![Tourism ER Diagram](https://user-images.githubusercontent.com/113845871/207751130-3a7bdd72-bfad-40a3-a179-279caf459f6d.png)
-
-
-### Project Authors
-<table>
-  <tr>
-    <th>Names</th>
-    <th>NU ID</th>
-  </tr>
-  <tr>
-    <td>Naman Gupta</td>
-    <td>002729751</td>
-  </tr>
-  <tr>
-    <td>Dipika Mohanty</td>
-    <td>002770528</td>
-  </tr>
-  <tr>
-    <td>Rahul GR</td>
-    <td>002767096</td>
-  </tr>
-</table>
